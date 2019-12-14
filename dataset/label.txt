@@ -1,0 +1,5 @@
+animal
+flower
+guitar
+houses
+plane

@@ -1,0 +1,15 @@
+./dataset/val\animal\american_pit_bull_terrier_104.jpg 0
+./dataset/val\animal\american_pit_bull_terrier_132.jpg 0
+./dataset/val\animal\american_pit_bull_terrier_146.jpg 0
+./dataset/val\flower\image_0504.jpg 1
+./dataset/val\flower\image_0557.jpg 1
+./dataset/val\flower\image_0617.jpg 1
+./dataset/val\guitar\0509.jpg 2
+./dataset/val\guitar\0557.jpg 2
+./dataset/val\guitar\0635.jpg 2
+./dataset/val\houses\0509.jpg 3
+./dataset/val\houses\0569.jpg 3
+./dataset/val\houses\0629.jpg 3
+./dataset/val\plane\0509.jpg 4
+./dataset/val\plane\0605.jpg 4
+./dataset/val\plane\0653.jpg 4

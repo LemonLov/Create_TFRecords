@@ -1,0 +1,10 @@
+./dataset/test\animal\american_pit_bull_terrier_106.jpg 0
+./dataset/test\animal\basset_hound_186.jpg 0
+./dataset/test\flower\image_0502.jpg 1
+./dataset/test\flower\image_0556.jpg 1
+./dataset/test\guitar\0555.jpg 2
+./dataset/test\guitar\0613.jpg 2
+./dataset/test\houses\0548.jpg 3
+./dataset/test\houses\0607.jpg 3
+./dataset/test\plane\0571.jpg 4
+./dataset/test\plane\0789.jpg 4
